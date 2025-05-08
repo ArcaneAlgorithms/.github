@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/ArcaneAlgorithms">
-    <img src="https://raw.githubusercontent.com/ArcaneAlgorithms/.github/refs/heads/main/profile/Arcane.png" alt="Logo" width="175" height="175">
+    <img src="https://raw.githubusercontent.com/ArcaneAlgorithms/.github/refs/heads/main/profile/Arcane.png" alt="Logo" width="225" height="225">
   </a>
 </h1>
 # Arcane Algorithms
