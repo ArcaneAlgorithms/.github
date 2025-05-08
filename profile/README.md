@@ -9,6 +9,7 @@ Arcane Algorithms
 Welcome to the Arcane Algorithms profile!
 </div>
 ## About Us
+
 We've made many projects such as:
 
 - The Unblocked Zone
