@@ -10,14 +10,6 @@ Welcome to the Arcane Algorithms profile!
 </div>
 # About Us
 
-We've made many projects such as:
-
-- [The Unblocked Zone](https://github.com/ArcaneAlgorithms/unblockedzone)
-- [An Ult1mate C0nverter](https://github.com/ArcaneAlgorithms/AnUlt1mateC0nverter/) (COMING SOON)
-
-With all of these projects, we strive to ensure the best quality for all users and ensure to have zero problems in the process.
-
-## Social Links
-We can be found on:
+We are the creators of [Zenih](https://github.com/notbingsa/Zenith)
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@ArcaneAlgorithms)
